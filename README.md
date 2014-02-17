@@ -15,7 +15,7 @@ Creates an Eagle command line script at out.txt to create pins in symbol view.
 
 Usage: <code>python pinCreator.py pinlist.txt</code>
 
-### pinCreator.py
+### pinConnector.py
 
 Creates an Eagle command line script at out-pads.txt to connect pins to pads in device view.
 
